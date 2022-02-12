@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="app.PaymentTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-02-12T19:31:50" hostname="Dilans-MacBook-Air.local" time="0.032">
+  <properties/>
+  <testcase name="threeExponentThreeShouldEqualTwentySeven()" classname="app.PaymentTest" time="0.025"/>
+  <testcase name="threeExponentZeroShouldEqualOne()" classname="app.PaymentTest" time="0.002"/>
+  <testcase name="monthlyDebtCalculatorTest()" classname="app.PaymentTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
