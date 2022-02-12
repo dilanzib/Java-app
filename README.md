@@ -2,8 +2,7 @@
 A Java application that calculates the monthly payment of a loan the customers have borrowed. 
 The app reads from an attached file.
 
-## How to start the app?
-
+## How to start the app
 
 Open the project in IntelliJ and wait for Gradle to do its thing.
 
