@@ -7,6 +7,6 @@ The app reads from an attached file.
 Open the project in IntelliJ and wait for Gradle to do its thing.
 
 - If the Run button at the top right of IntelliJ is not activated, click on Edit configurations, _Add configuration (+)_ and select _Application_ from the list.
-  Select the Main class, _Java 11_ as the JRE, and select _Classpath of module_. 
+  Select _Java 11_ as the JRE, and select _Classpath of module_ (Java-app.main), and the Main class (app.Main). 
   Save the configuration, now the program should compile.
 
